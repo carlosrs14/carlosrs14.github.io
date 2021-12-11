@@ -2,7 +2,7 @@
         "name": "Hello world",
         "short_name": "HolaPWA",
         "icons": [{
-            "src":"images/android-launchericon-48-48.png",
+            "src": "images/android-launchericon-48-48.png",
             "sizes": "48x48",
             "type": "image/png",
             "purpose": "any maskable"            
