@@ -1,4 +1,4 @@
-var cacheName = 'holamundo-pwa';
+var cacheName = 'prueba';
 var filesToCache = [
     '/',
     '/index.html',
